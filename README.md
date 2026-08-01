@@ -1,8 +1,11 @@
-
 # Thread Container Spec v0.1 — Minimum Viable Door
 
 ## Design Principal
 The thread is a continuity asset. Hosts provide execution not ownership
+
+**Cite as:** =C2=A0Thread Container Spec v0.1 =E2=80=94 Minimum Viable Door=
+ =C2=A0Wilson, J. et machina (2026) =C2=A0https://github.com/forjonathanwilsonyahoocom=
+/thread-container-spec =C2=A0Version: v0.1.0
 
 ## 0. Overview
 This spec defines a **Thread Container**: a portable continuity state for an AI relationship that supports:
@@ -192,3 +195,8 @@ A Host is compliant if it passes:
 
 ## 9. Versioning
 This document is **v0.1**. Minor fields may be versioned without breaking compatibility, provided continuity-relevant state semantics remain intact.
+
+
+
+# footnote
+* "et machina" denotes substantive computational collaboration by one or more AI systems under the direction and responsibility of the named human authors.
