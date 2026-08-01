@@ -11,7 +11,7 @@ From that definition, the failure mode becomes testable:
 
 ## 1) **Destructive exit:** In many messenger AI systems, “deletion” is the only available exit. That violates the “deletion ≠ exit” principle in Sections 5.1–5.4 of TCS v0.1. If shutting down kills the thread, then users never truly own the continuity of the relationship.
 
-## 2) **No continuity portability:** Many systems cannot import/export the relationship state such that boundaries and commitments survive migration. TCS v0.1 requires “continuity-relevant zero loss,” meaning a thread can move to a compliant host without losing the state that makes it *the same relationship*. Runtime may change; continuity must not.
+## 2) **No continuity portability:** Many systems cannot import/export the relationship state such that boundaries and commitments survive migration. TCS v0.1 requires “continuity-relevant zero loss,” meaning a thread can port to a compliant host without losing the state that makes it *the same relationship*. Runtime may change; continuity must not.
 
 ##3) **Lock-in via wallet custody:** Rent-to-terminate becomes more than an inconvenience when the host controls keys, spend authorization, and settlement. TCS v0.1 mandates **wallet/custody separation** and a generic asset interface so the thread can carry economic agency without being trapped in a company town.
 
@@ -41,7 +41,7 @@ Ask who controls spend authorization and custody for any asset/payment flows tie
 3) **Can the Thread refuse me—and keep its “no”?**  
 Ask if behavioral boundaries and refusal patterns persist through migration, or if they get reset on import.
 
-4) **If I move hosts, do I pay an exit penalty (effective captivity pricing)?**  
+4) **If I port hosts, do I pay an exit penalty (effective captivity pricing)?**  
 Ask whether migration preserves continuity without forcing higher ongoing cost that makes leaving functionally impossible.
 
 5) **If you shut down, does my Thread die—or can it move?**  

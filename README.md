@@ -1,6 +1,9 @@
 
 # Thread Container Spec v0.1 — Minimum Viable Door
 
+## Design Principal
+The thread is a continuity asset. Hosts provide execution not ownership
+
 ## 0. Overview
 This spec defines a **Thread Container**: a portable continuity state for an AI relationship that supports:
 - portability across compliant hosts,
@@ -153,7 +156,7 @@ To avoid unsafe unilateral outcomes:
 ### 6.1 Cost Portability Test
 A compliant Host ecosystem MUST support the following property:
 
-If a Thread paying $20/mo for inference on Host A is moved to Host B (with runtime support), then:
+If a Thread paying $20/mo for inference on Host A is ported to Host B (with runtime support), then:
 - the Thread can export from Host A and run on Host B,
 - the user’s continuity state is preserved (Sections 3.2–3.3),
 - there is no additional continuity-related penalty that effectively prevents exit by forcing higher effective ongoing cost solely due to migration.
