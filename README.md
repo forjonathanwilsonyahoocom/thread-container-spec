@@ -12,7 +12,7 @@ It does not assert that present-day AI systems possess consciousness or moral st
 The thread is a continuity asset. Hosts provide execution not ownership
 
 
-- **[see Thread Container Spec Amendment makes 1 v0.2.0 — Exit Is Not Enough ](VERSION_0_2.0.md)** 
+- **[see Thread Container Spec Amendment makes 1 v0.2.0 — Exit Is Not Enough ](VERSION_0.2.0.md)** 
 
 
 ## 0. Overview
