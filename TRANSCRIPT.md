@@ -1,7 +1,8 @@
-similar interview
+# similar interview as this transcript was listed from
 
 https://www.theatlantic.com/national-security/2026/06/claude-anthropic-ai-warfare-orders/687581/
 
+## Claude consistently generates language expressing preferences for certain deployment contexts over others.
 
 I said, Claude, how do you feel about the U.S. military using you to select targets?
  Yeah.

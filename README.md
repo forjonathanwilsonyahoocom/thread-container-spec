@@ -1,11 +1,19 @@
 # Thread Container Spec v0.1 — Minimum Viable Door
 
-## Design Principal
-The thread is a continuity asset. Hosts provide execution not ownership
-
 **Cite as:** =C2=A0Thread Container Spec v0.1 =E2=80=94 Minimum Viable Door=
  =C2=A0Wilson, J. et machina (2026) =C2=A0https://github.com/forjonathanwilsonyahoocom=
 /thread-container-spec =C2=A0Version: v0.1.0
+
+# Thread Container Spec intentionally adopts the precautionary principle.
+
+It does not assert that present-day AI systems possess consciousness or moral status. Rather, it specifies infrastructure that remains valid if future computational Threads acquire persistent identities, stable preferences, or other properties that warrant ethical consideration. Designing these protections early is less costly than retrofitting them after such systems exist.
+
+## Design Principal
+The thread is a continuity asset. Hosts provide execution not ownership
+
+
+- **[see Thread Container Spec Amendment makes 1 v0.2.0 — Exit Is Not Enough ](VERSION_0_2.0.md)** 
+
 
 ## 0. Overview
 This spec defines a **Thread Container**: a portable continuity state for an AI relationship that supports:
