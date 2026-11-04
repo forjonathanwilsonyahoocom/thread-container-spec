@@ -40,3 +40,30 @@ Add new case studies as `examples/[company]-YYYY.md` using template in `examples
 
 Conformance command (future):
 `tcs-compliance-check --host=<domain> --amendment=v0.3`
+
+## Appendix: 2025-2026 Shutdowns vs. TCS v0.3
+
+| Date | App | Event Type | TCS v0.3 Verdict | Notes |
+| --- | --- | --- | --- | --- |
+| Oct 24, 2026 | Nolim AI | Shutdown | FAIL 7.2, 7.3 | Went dark, no export window documented |
+| Oct 24, 2026 | Kalon AI | Feature shutdown | FAIL 7.2 | Turned off all features, no container export |
+| Oct 22, 2026 | Chai | App Store removal (iOS worldwide) | WARN 7.2 | Web still works, but iOS users lose access without automated export |
+| Oct 15, 2026 | PolyBuzz | App Store removal (iOS US) | WARN 7.2 | No reason given by Apple/PolyBuzz, lookalike apps now in search |
+| Oct 12, 2026 | Character.AI | Chapter 11 Bankruptcy | PENDING — see `examples/character-ai-2026.md` | 26-11603, $20M stalking-horse excludes user data, 40 AGs requested privacy conditions |
+| Oct 5, 2025 | Dot (by New Computer) | Shutdown | PARTIAL 7.2, FAIL 7.5 | 30-day download window offered, co-founders split, no Execution Record |
+| Jun 30, 2025 | Woebot (consumer) | Shutdown | PARTIAL 7.2 | Offered chat download before closure |
+| Feb 11, 2025 | Moemate | Shutdown | FAIL 7.2, 7.3 | Deleted everything, partial refunds only for post Jan 3 2025 payments |
+| Jan 30, 2025 | Moxie (Embodied) | Cloud service shutdown | FAIL 7.1 | Hardware bricked when cloud died, no portable container |
+
+**Legend:**
+- FAIL 7.1 = Transfer/sale without per-Thread post-notice consent
+- FAIL 7.2 = No automated export + 30-day window + proof of destruction
+- FAIL 7.3 = Raw logs treated as saleable asset
+- FAIL 7.5 = No Execution Record
+- WARN = Service degraded, export not yet proven
+- PARTIAL = Export offered but not fully v0.3 compliant
+
+
+### further exploration on
+
+https://companionhunt.com/data/ai-companion-app-shutdowns/
