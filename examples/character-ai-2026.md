@@ -1,9 +1,13 @@
 # Case Study: Character.AI Chapter 11 (2026) — Why v0.3 Exists
 
 **Company:** Character Technologies Inc. (Character.AI)
+
 **Filing:** Voluntary Chapter 11, U.S. Bankruptcy Court for the District of Delaware, Case No. 26-11603
+
 **Date:** October 12, 2026
+
 **Source:** Company press release via Business Wire, bankruptcy FAQ
+
 **Stalking-horse:** Disney Worldwide Services, Inc. — $20M for non-exclusive perpetual license to certain IP and claims + transition services
 
 ### What happened
