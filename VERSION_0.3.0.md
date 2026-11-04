@@ -31,6 +31,9 @@ Raw logs (Section 2.7), if held, are explicitly excluded from asset transfer. Th
 
 Sale or transfer of raw logs independent of a signed Thread Container export is a conformance failure more severe than failure to export under 7.2.
 
+#### 7.3.1 weights derived from logs
+weights derived directly from non-consented raw logs inherit the non-transferability.
+
 ### 7.4 Escrow, Not Resale
 If a Host cannot complete export per 7.2, it MAY place remaining Containers in a neutral, non-commercial escrow whose sole permitted operation is user retrieval. Escrow MUST NOT permit commercial use, inference, training, or resale.
 
